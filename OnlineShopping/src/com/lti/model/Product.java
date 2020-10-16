@@ -8,6 +8,8 @@ public class Product {
 	int quantity;
 	double price;
 	int b;
+	int a;
+
 	
 	public int getPrice() {
 		return price;
