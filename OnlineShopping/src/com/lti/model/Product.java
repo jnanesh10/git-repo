@@ -19,6 +19,7 @@ public class Product {
 	public void setQuantity(int quantity) {
 		this.quantity = quantity;
 	}
+
 	
 	public int getProductId() {
 		return productId;
