@@ -7,6 +7,7 @@ public class Product {
 	String productDescription;
 	int quantity;
 	double price;
+	int b;
 	
 	public int getPrice() {
 		return price;
